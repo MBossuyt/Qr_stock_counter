@@ -1,0 +1,1 @@
+# Qr_stock_counter
